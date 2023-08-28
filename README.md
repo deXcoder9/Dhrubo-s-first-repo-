@@ -1,2 +1,5 @@
-# Dhrubo-s-first-repo-
-This is my first repo in GitHub and its 28th August, 2k23. This is the starting point of mine in GitHub :)
+# Dhrubo-s-first-repo-00
+This is my first repository in GitHub and its 28th August, 2k23. 
+<br> 
+This is the starting point of mine in GitHub :)
+Author: Fahim Shariare Dhrubo 
